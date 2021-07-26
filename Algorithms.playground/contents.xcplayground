@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Home'/>
+        <page name='Anagram'/>
+        <page name='BalancingBracket'/>
+        <page name='BinaryAddition'/>
+        <page name='BubbleSort'/>
+        <page name='Combinations'/>
+        <page name='Combinations2'/>
+        <page name='CombinationWithSet'/>
+        <page name='CountingElements'/>
+        <page name='CountingSort'/>
+        <page name='CountZeros'/>
+        <page name='Divisors'/>
+        <page name='FewestCoins'/>
+        <page name='FindPair'/>
+        <page name='Gcd'/>
+        <page name='LargestFactorial'/>
+        <page name='Map'/>
+        <page name='MoveZeros'/>
+        <page name='NextGreatElement'/>
+        <page name='Permutations'/>
+        <page name='QueueWithStack'/>
+        <page name='RangeIntersection'/>
+        <page name='SelectionSort'/>
+        <page name='Stack'/>
+        <page name='StackWithQueue'/>
+    </pages>
+</playground>
